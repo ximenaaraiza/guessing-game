@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(207, 228, 254);
+    
+}
+
+.box{
+    height:60vh;
+    width:80vh;
+    border:solid black 2px;
+    background-color:aliceblue;
+    margin:auto;
+    border-radius: 10%;
+}
+
+h2{
+    text-align:center;
+    margin: 4vw 0vw 1vw 0vw;
+}
+
+p{
+    font-size:1.4vw;
+    text-align: center; 
+}
+
+.guess{
+    margin:7vw 0vw 4vw 0vw 
+}
+
+.input{
+    display: flex;
+    justify-content:center;
+}
+
+input{
+    height:3vw;
+    width: 5vw;
+    margin: 0vw 0vw 3vw 0vw ;
+    border-radius: 10%;
+}
+
+.button{
+    height:2vw;
+    background-color:rgb(231, 203, 255);
+    color:blue;
+    border:rgb(178, 178, 249) solid 1px;
+    border-radius: 10%;
+}
